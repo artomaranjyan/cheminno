@@ -28,4 +28,6 @@ description: "ELI5: what is a neural network."
 
 Փորձի ամբողջ ընթացքը կարող եք տեսնել ստորև՝
 
-[Վիդեո](https://youtube.com/shorts/QBCYHkDlZGs?si=Unu_bvxpDA1jZ5ne)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QBCYHkDlZGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
