@@ -1,9 +1,9 @@
 # Site settings
-title: ChemInno
+title: cheminno
 description: 'Easy at-home chemistry experiments.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
-baseurl: "/cheminno/" # the subpath of your site, e.g. /blog
-url: "https://artomaranjyan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cheminno" # the subpath of your site, e.g. /blog
+url: "https://artomaranjyan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/cheminno.png"
 logo-icon: "/assets/img/branding/cheminno.png"
 logo-icon-SEO: "/assets/img/branding/cheminno.png" # must be a non SVG file
