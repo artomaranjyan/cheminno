@@ -2,19 +2,38 @@
 layout: post
 read_time: true
 show_date: true
-title: "Lina experiment"
+title: "Կարտոֆիլ"
 date: 2024-08-12
 img: posts/20210420/bath-bomb.jpeg
-tags: [copyright, creativity, neural networks, machine learning, artificial intelligence]
+tags: [Կարտոֆիլ]
 category: opinion
 author: Lina Voskanyan
-description: "As neural networks are used more and more in the creative process, text, images and even music are now created by AI, but who owns the copyright for those works?"
+description: "Կարտոֆիլ"
 ---
 
-# Lina experiment
+փորձարկելու են կատոֆիլները։
+
+Կտեսնենք, թե ինչ վարք կցուցաբերի կարտոֆիլը տարբեր հեղուկներում։
+
+Այս փորձի համար մեզ անհրաժեշտ է`
+
+1)ջուր
+2)աղ
+3)սոդա
+4)քացախ
+
+Քայլերի հաջորդականությունը`
+
+1) Առաջին տարայի համար պետք է ջրին խառնել 1գդալ աղ
+
+2) Երկրորդ տարայի համար պետք է ջրին խառնել 1գդալ սոդա
+
+3)Երրորդ տարայի համար պետք է ջրին խառնել 1գդալ քացախ
+
+4) Կարտոֆիլը կտրտում ենք հավասար խորանարդիկների և դնում ենք տարաների մեջ։
+
+5) Սպասում ենք 4 օր և տեսնում արդյունքը😊։
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KmE0q1BRH8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YxeknHmy1LU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6HBzieywW4o" title="Կարտոֆիլ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
