@@ -41,8 +41,7 @@ description: "Լոգանքի Ռումբեր"
 10) ռետինե ձեռնոցներ
 
 
-![The next Rembrandt](./assets/img/posts/20210420/bath_bombs_1.jpeg)
-<small>[The Next Rembrandt](https://www.jwt.com/en/work/thenextrembrandt) is a computer-generated 3-D–printed painting developed by a facial-recognition algorithm that scanned data from 346 known paintings by the Dutch painter in a process lasting 18 months. The portrait is based on 168,263 fragments from Rembrandt’s works.</small>
+![Լոգանքի Ռումբեր](./assets/img/posts/20210420/bath_bombs_1.jpeg)
 
 
 # Փորձի ընթացքը 
