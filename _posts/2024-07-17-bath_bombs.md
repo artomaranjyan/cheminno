@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Լոգանքի Ռումբեր"
 date: 2024-07-17
-img: posts/20210420/bath-bomb.jpeg
+img: posts/20210420/bath_bombs.jpeg
 tags: [Լոգանքի Ռումբեր]
 category: opinion
 author: Mari Khachatryan
