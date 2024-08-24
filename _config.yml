@@ -46,8 +46,6 @@ analytics: G-R8SZS2YBZK
 fbadmin: ar.maybach
 
 # Paginate
-paginate: 6
-paginate_path: 'cheminno/page:num'
 words_per_minute: 200
 
 extensions:
