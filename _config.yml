@@ -4,9 +4,9 @@ description: 'Easy at-home chemistry experiments.' # this means to ignore newlin
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/cheminno.jpg"
-logo-icon: "/assets/img/branding/cheminno.jpg"
-logo-icon-SEO: "/assets/img/branding/cheminno.jpg" # must be a non SVG file
+logo: "/assets/img/branding/cheminno.png"
+logo-icon: "/assets/img/branding/cheminno.png"
+logo-icon-SEO: "/assets/img/branding/cheminno.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -20,12 +20,12 @@ logo-icon-SEO: "/assets/img/branding/cheminno.jpg" # must be a non SVG file
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "/assets/img/branding/cheminno.jpg"
+logo-dark: "/assets/img/branding/cheminno.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
 author: ChemInno team # add your name
-author-pic: cheminno.jpg
+author-pic: cheminno.png
 about-author: FemInno 2024 group 11. 
 
 # Contact links
