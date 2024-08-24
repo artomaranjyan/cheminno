@@ -81,3 +81,6 @@ description: "Լոգանքի Ռումբեր"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KmE0q1BRH8g" title="Լոգանքի ռումբեր" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YxeknHmy1LU" title="Լոգանքի ռումբեր - շարունակություն" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+![Լոգանքի Ռումբեր](./assets/img/posts/20210420/bath_bombs_2.jpeg)
