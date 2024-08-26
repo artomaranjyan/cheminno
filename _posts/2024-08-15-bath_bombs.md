@@ -42,6 +42,8 @@ description: "Լոգանքի Ռումբեր"
 10) ռետինե ձեռնոցներ
 
 
+![Լոգանքի Ռումբեր](./assets/img/posts/20210420/bath_bombs_1.jpeg)
+
 
 ## Փորձի ընթացքը 
 
@@ -74,8 +76,6 @@ description: "Լոգանքի Ռումբեր"
 
 .
 
-
-![Լոգանքի Ռումբեր](./assets/img/posts/20210420/bath_bombs_1.jpeg)
 
 
 
