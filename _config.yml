@@ -28,15 +28,7 @@ author: FemInno 2024 Խումբ 11
 # add your name
 
 author-pic: cheminno.jpeg
-about-author: |
-  FemInno 2024 Խումբ 11
-  - Mari
-  - Alyona
-  - Lina
-  
-  Mentors
-  - Anahit
-  - Arto
+about-author: "apple\nbanana\ncherry"
 
 # Contact links
 email: # Add your Email address
