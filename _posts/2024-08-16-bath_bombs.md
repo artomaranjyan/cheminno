@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "Լոգանքի Ռումբեր"
-date: 2024-08-15
+date: 2024-08-16
 img: posts/20210420/bath_bombs.jpeg
 tags: [Լոգանքի Ռումբեր]
 category: opinion
