@@ -24,12 +24,14 @@ logo-dark: "/assets/img/branding/cheminno.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: (MnO42-) և աստիճանաբար վերածվում է մանգանի երկօքսիդի (MnO2):
-Ուշադրություն !!!
-Նախքան փորձը կատարել հարկավոր է `
-⁠- Հագնել ռետինե ձեռնոցներ
- - Կրոտը շաատ զգուշորեն բացել որպիսի չթափվի մնացած իրերի վրա (կամ շորերի)
- # add your name
+author: |
+  MnO42- և աստիճանաբար վերածվում է մանգանի երկօքսիդի (MnO2):
+  Ուշադրություն !!!
+  Նախքան փորձը կատարել հարկավոր է `
+  - Հագնել ռետինե ձեռնոցներ
+  - Կրոտը շաատ զգուշորեն բացել որպիսի չթափվի մնացած իրերի վրա (կամ շորերի)
+  # add your name
+
 author-pic: cheminno.png
 about-author: FemInno 2024 group 11. 
 
