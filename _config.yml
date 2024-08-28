@@ -28,12 +28,10 @@ author: FemInno 2024 Խումբ 11
 # add your name
 
 author-pic: cheminno.jpeg
-about-author: |
-  apple
-  
-  banana
-  
-  ncherry
+about-author: 
+  - "apple"
+  - "banana"
+  - "cherry"
 
 # Contact links
 email: # Add your Email address
