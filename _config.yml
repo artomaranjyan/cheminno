@@ -4,9 +4,9 @@ description: 'Easy at-home chemistry experiments.' # this means to ignore newlin
 permalink: ':title:output_ext'
 baseurl: "/cheminno" # the subpath of your site, e.g. /blog
 url: "https://artomaranjyan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/cheminno.png"
-logo-icon: "/assets/img/branding/cheminno.png"
-logo-icon-SEO: "/assets/img/branding/cheminno.png" # must be a non SVG file
+logo: "/assets/img/branding/cheminno.jpeg"
+logo-icon: "/assets/img/branding/cheminno.jpeg"
+logo-icon-SEO: "/assets/img/branding/cheminno.jpeg" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -20,7 +20,7 @@ logo-icon-SEO: "/assets/img/branding/cheminno.png" # must be a non SVG file
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "/assets/img/branding/cheminno.png"
+logo-dark: "/assets/img/branding/cheminno.jpeg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
@@ -32,7 +32,7 @@ author: |
   - Կրոտը շաատ զգուշորեն բացել որպիսի չթափվի մնացած իրերի վրա (կամ շորերի)
 # add your name
 
-author-pic: cheminno.png
+author-pic: cheminno.jpeg
 about-author: FemInno 2024 Խումբ 11
 
 # Contact links
